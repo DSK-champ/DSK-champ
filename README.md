@@ -1,10 +1,3 @@
-```
-        🌲          🌲    🌲                    🌲       🌲
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-░░◆░░░░░░◇░░░░░░◆░░░░◇░░░░░░◆░░░░░◇░░░░◈░░░░░░◆░░░░◇░░░░░░◆░░░░░░
-```
-
 # Hi, I'm Sravan 👋
 
 I'm a first year Computer Science student at **IIT Patna** (2024–2028), interested in full-stack development, AI, and competitive programming. I like building things that actually work — from music streaming apps to ML pipelines — and I'm always looking for new problems to get into.
@@ -75,17 +68,6 @@ Right now I'm focused on strengthening my DSA fundamentals alongside building re
 </div>
 
 ---
-
-## Weekly Dev Breakdown
-
-<!-- waka-readme auto-updates this section. See: https://github.com/athul/waka-readme -->
-```text
-TypeScript   13 hrs 07 mins  ████████████████████████░   48.5%
-Svelte        7 hrs 29 mins  ██████████████░░░░░░░░░░░   27.9%
-YAML          1 hr  45 mins  ███░░░░░░░░░░░░░░░░░░░░░░    6.5%
-JSON          1 hr  12 mins  ███░░░░░░░░░░░░░░░░░░░░░░    4.5%
-Markdown      1 hr  06 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    4.1%
-```
 
 ---
 
