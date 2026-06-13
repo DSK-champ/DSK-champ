@@ -108,7 +108,7 @@ const sravan = {
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -123,15 +123,6 @@ const sravan = {
 
 ---
 
-## ⏱️ Weekly Dev Breakdown
-
-```text
-TypeScript   13 hrs 07 mins  ████████████████████████░   48.5%
-Svelte        7 hrs 29 mins  ██████████████░░░░░░░░░░░   27.9%
-YAML          1 hr  45 mins  ███░░░░░░░░░░░░░░░░░░░░░░    6.5%
-JSON          1 hr  12 mins  ███░░░░░░░░░░░░░░░░░░░░░░    4.5%
-Markdown      1 hr  06 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    4.1%
-```
 
 ---
 
