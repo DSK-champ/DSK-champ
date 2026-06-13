@@ -10,7 +10,6 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dsk_champ)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dsk_champ)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=dsk_champ&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/DSK-champ)
 
 </div>
 
