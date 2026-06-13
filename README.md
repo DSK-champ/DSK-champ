@@ -89,6 +89,7 @@ const sravan = {
 ---
 
 ##  Achievements
+|---|---|
 | 🌍 | **Top 12% globally** — Ranked **194th / 1600+ teams** at Shell.ai Hackathon 2025 |
 | 🥇 | **1st Place** — GDG On-Campus Mini Hackathon (AI Travel Agent chatbot with LangFlow) |
 | 🎓 | Completed **Google's Student Upskilling Launchpad Program**, 2nd Cohort (2025) |
