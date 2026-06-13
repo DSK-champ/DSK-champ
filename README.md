@@ -81,7 +81,7 @@ const sravan = {
 |  Project |  Description |  Stack | 🔗 |
 |---|---|---|---|
 | 🎵 **Soothe** | Cross-platform music streaming & social app with mood-based discovery, real-time encrypted chat, and AI recommendations | React Native · Node.js · WebSockets · Pinecone · Gemini · AWS | [Soothe](https://github.com/DSK-champ/Soothe) |
-| 🔬 **Predictive Fuel Blend Analytics** | Stacking ensemble model (LightGBM + CatBoost + XGBoost → RidgeCV) predicting 10 fuel blend properties at 99.2% avg R² — Shell.ai Hackathon 2025, Top 12% globally | Python · LightGBM · CatBoost · XGBoost · Vercel | [Website](https://predictive-fuel-analytics.vercel.app/)) |
+| 🔬 **Predictive Fuel Blend Analytics** | Stacking ensemble model (LightGBM + CatBoost + XGBoost → RidgeCV) predicting 10 fuel blend properties at 99.2% avg R² — Shell.ai Hackathon 2025, Top 12% globally | Python · LightGBM · CatBoost · XGBoost · Vercel | [FuelBlend](https://predictive-fuel-analytics.vercel.app/) |
 | 🤖 **AI Instagram Agent** | Automation tool that reacts to reels, replies to DMs, and adapts your Explore feed based on interests | Droidrun · Google Gemini | [DroidRun](https://github.com/DSK-champ/AI-Instagram-Agent) |
 | ⚙️ **SIMPLEX Assembler & Emulator** | Two-pass assembler + stack-based CPU emulator for the SIMPLEX ISA in ISO C89, verified across 47,653 instructions; datapath implemented in Logisim | C · C++ · Logisim | [Simplex](https://github.com/DSK-champ/CS2206-ASM-EMU) |
 | 🤝 **JanSeva** | Resource allocation platform bridging grassroots NGO needs with volunteers | Node.js · MongoDB | [JanSeva](https://github.com/DSK-champ/JanSeva) |
