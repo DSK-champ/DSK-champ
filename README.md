@@ -1,6 +1,6 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Darla%20Sravan%20Kumar&fontSize=48&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AI%20Builder%20%7C%20Competitive%20Programmer&descAlignY=58&animation=twinkling)](https://github.com/DSK-champ)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Darla%20Sravan%20Kumar&fontSize=48&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AI%20Enthusiast%20%7C%20Competitive%20Programmer&descAlignY=58&animation=twinkling)](https://github.com/DSK-champ)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+@+IIT+Patna+%7C+CGPA+9.12;Full-Stack+%7C+AI+%7C+Systems+Dev;Building+things+that+actually+work+%F0%9F%9A%80;Always+learning%2C+always+shipping)](https://github.com/DSK-champ)
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```js
 const sravan = {
@@ -32,7 +32,7 @@ const sravan = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -76,31 +76,28 @@ const sravan = {
 
 ---
 
-## 💼 Featured Projects
+##  Featured Projects
 
-| 🚀 Project | 📝 Description | 🔧 Stack | 🔗 |
+|  Project |  Description |  Stack | 🔗 |
 |---|---|---|---|
-| 🎵 **Soothe** | Cross-platform music streaming & social app with mood-based discovery, real-time encrypted chat, and AI recommendations | React Native · Node.js · WebSockets · Pinecone · Gemini · AWS | [GitHub](https://github.com/DSK-champ/Soothe) |
-| 🔬 **Predictive Fuel Blend Analytics** | Stacking ensemble model (LightGBM + CatBoost + XGBoost → RidgeCV) predicting 10 fuel blend properties at 99.2% avg R² — Shell.ai Hackathon 2025, Top 12% globally | Python · LightGBM · CatBoost · XGBoost · Vercel | [GitHub](https://github.com/DSK-champ/predictive-fuel-analytics) |
-| 🤖 **AI Instagram Agent** | Automation tool that reacts to reels, replies to DMs, and adapts your Explore feed based on interests | Droidrun · Google Gemini | [GitHub](https://github.com/DSK-champ/AI-Instagram-Agent) |
-| ⚙️ **SIMPLEX Assembler & Emulator** | Two-pass assembler + stack-based CPU emulator for the SIMPLEX ISA in ISO C89, verified across 47,653 instructions; datapath implemented in Logisim | C · C++ · Logisim | [GitHub](https://github.com/DSK-champ/CS2206-ASM-EMU) |
-| 🤝 **JanSeva** | Resource allocation platform bridging grassroots NGO needs with volunteers | Node.js · MongoDB | [GitHub](https://github.com/DSK-champ/JanSeva) |
+| 🎵 **Soothe** | Cross-platform music streaming & social app with mood-based discovery, real-time encrypted chat, and AI recommendations | React Native · Node.js · WebSockets · Pinecone · Gemini · AWS | [Soothe](https://github.com/DSK-champ/Soothe) |
+| 🔬 **Predictive Fuel Blend Analytics** | Stacking ensemble model (LightGBM + CatBoost + XGBoost → RidgeCV) predicting 10 fuel blend properties at 99.2% avg R² — Shell.ai Hackathon 2025, Top 12% globally | Python · LightGBM · CatBoost · XGBoost · Vercel | [Website](https://predictive-fuel-analytics.vercel.app/)) |
+| 🤖 **AI Instagram Agent** | Automation tool that reacts to reels, replies to DMs, and adapts your Explore feed based on interests | Droidrun · Google Gemini | [DroidRun](https://github.com/DSK-champ/AI-Instagram-Agent) |
+| ⚙️ **SIMPLEX Assembler & Emulator** | Two-pass assembler + stack-based CPU emulator for the SIMPLEX ISA in ISO C89, verified across 47,653 instructions; datapath implemented in Logisim | C · C++ · Logisim | [Simplex](https://github.com/DSK-champ/CS2206-ASM-EMU) |
+| 🤝 **JanSeva** | Resource allocation platform bridging grassroots NGO needs with volunteers | Node.js · MongoDB | [JanSeva](https://github.com/DSK-champ/JanSeva) |
 
 ---
 
-## 🏆 Achievements
-
-| 🎖️ | Highlight |
-|---|---|
+##  Achievements
 | 🌍 | **Top 12% globally** — Ranked **194th / 1600+ teams** at Shell.ai Hackathon 2025 |
 | 🥇 | **1st Place** — GDG On-Campus Mini Hackathon (AI Travel Agent chatbot with LangFlow) |
 | 🎓 | Completed **Google's Student Upskilling Launchpad Program**, 2nd Cohort (2025) |
 | 🧑‍🏫 | **Co-Mentor**, Student Mentorship Program, IIT Patna |
-| 👥 | Active in **NJACK** (Coding Club), **GDG**, **NSS**, **HOSCA** at IIT Patna |
+| 👥 | Active Member in **NJACK** (Coding Club), **GDG**, **NSS**, **HOSCA** at IIT Patna |
 
 ---
 
-## ⚔️ Competitive Programming
+##  Competitive Programming
 
 | Platform | Handle | Rating / Progress |
 |---|---|---|
@@ -141,6 +138,5 @@ Markdown      1 hr  06 mins  ██░░░░░░░░░░░░░░░
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)](https://github.com/DSK-champ)
 
-**Made with ❤️, ☕, and too many late nights by Darla Sravan Kumar**
 
 </div>
