@@ -2,7 +2,7 @@
 
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Darla%20Sravan%20Kumar&fontSize=48&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AI%20Enthusiast%20%7C%20Competitive%20Programmer&descAlignY=58&animation=twinkling)](https://github.com/DSK-champ)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+@+IIT+Patna+%7C+CGPA+9.12;Full-Stack+%7C+AI+%7C+Systems+Dev;Building+things+that+actually+work+%F0%9F%9A%80;Always+learning%2C+always+shipping)](https://github.com/DSK-champ)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+@+IIT+Patna+%7C+CGPA+9.12;Full-Stack+%7C+AI+%7C+Systems+Dev;Building+things+that+actually+work+%F0%9F%9A%80;Always+learning%2C+always+building)](https://github.com/DSK-champ)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsravankumar260807@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sravan-kumar)
