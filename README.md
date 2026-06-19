@@ -104,7 +104,7 @@ const sravan = {
 |---|---|---|
 | ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | [dsk_champ](https://codeforces.com/profile/dsk_champ) | **1286** — Pupil |
 | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | [dsk_champ](https://www.codechef.com/users/dsk_champ) | **1333** — Div 4 |
-| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | [dsk_champ](https://leetcode.com/dsk_champ) | **262** problems solved |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | [dsk_champ](https://leetcode.com/dsk_champ) | **145** problems solved |
 
 ---
 
