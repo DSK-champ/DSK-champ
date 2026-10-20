@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner2.svg" alt="Darla Sravan Kumar animated skyline banner" width="100%"/>
+<img src="./assets/banner1.svg" alt="Darla Sravan Kumar animated skyline banner" width="100%"/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-1c2a5c?style=for-the-badge&logo=gmail&logoColor=ffc861)](mailto:dsravankumar260807@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1c2a5c?style=for-the-badge&logo=linkedin&logoColor=ffc861)](https://linkedin.com/in/d-sravan-kumar)
