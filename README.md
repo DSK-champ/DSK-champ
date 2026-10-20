@@ -2,8 +2,6 @@
 
 <img src="./assets/banner.svg" alt="Darla Sravan Kumar animated skyline banner" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+@+IIT+Patna+%7C+CGPA+9.12;Full-Stack+%7C+AI+%7C+Systems+Dev;Building+things+that+actually+work+%F0%9F%9A%80;Always+learning%2C+always+building)](https://github.com/DSK-champ)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsravankumar260807@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/d-sravan-kumar)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/dsk_champ)
