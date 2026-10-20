@@ -124,7 +124,6 @@ const sravan = {
 
 <div align="center">
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)](https://github.com/DSK-champ)
-
+<img src="./assets/footer.svg" alt="Animated night city street" width="100%"/>
 
 </div>
