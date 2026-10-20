@@ -19,9 +19,7 @@ const sravan = {
     batch       : "B.Tech CSE  2024 → 2028",
     cgpa        : 9.12,
     focus       : ["Full-Stack Dev", "AI & Automation", "Competitive Programming"],
-    building    : "things that actually work — from music apps to ML pipelines",
-    openTo      : ["Collaborations", "Open Source", "Internships"],
-    motto       : "Strong DSA foundations + Real projects = Real impact 🚀"
+    openTo      : ["Collaborations", "Open Source", "Internships"]
 };
 ```
 
