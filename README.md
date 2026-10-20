@@ -2,13 +2,11 @@
 
 <img src="./assets/banner2.svg" alt="Darla Sravan Kumar animated skyline banner" width="100%"/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsravankumar260807@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/d-sravan-kumar)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/dsk_champ)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dsk_champ)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dsk_champ)
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-1c2a5c?style=for-the-badge&logo=gmail&logoColor=ffc861)](mailto:dsravankumar260807@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1c2a5c?style=for-the-badge&logo=linkedin&logoColor=ffc861)](https://linkedin.com/in/d-sravan-kumar)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1c2a5c?style=for-the-badge&logo=codeforces&logoColor=ffc861)](https://codeforces.com/profile/dsk_champ)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1c2a5c?style=for-the-badge&logo=codechef&logoColor=ffc861)](https://www.codechef.com/users/dsk_champ)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1c2a5c?style=for-the-badge&logo=leetcode&logoColor=ffc861)](https://leetcode.com/dsk_champ)
 </div>
 
 ---
