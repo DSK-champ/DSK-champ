@@ -122,6 +122,6 @@ const sravan = {
 
 <div align="center">
 
-<img src="./assets/footer.svg" alt="Animated night city street" width="100%"/>
+<img src="./assets/footer1.svg" alt="Animated night city street" width="100%"/>
 
 </div>
